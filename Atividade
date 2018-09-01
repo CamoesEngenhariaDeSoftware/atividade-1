@@ -1,0 +1,32 @@
+Melhores Práticas de Programação JAVA
+Análise e Desenvolvimento de Sistemas – Faculdades Integradas Camões (FICA)
+80020-040 – Curitiba – PR – Brasil
+Tiago da Costa Jerônimo
+Tiagocostacj@gmail.com
+Boas práticas é um padrão criado pela convenção onde estabeleceram um conjunto de
+regras onde devem ser seguidas para facilitar a programação e o entendimento pelos
+programadores ou analistas que irão utilizar o código posteriormente.
+Endentação: Essa prática facilita a visualização do próprio programador ou até de uma equipe que
+esteja trabalhando no mesmo código.
+Comentários e documentação: Um comentário irá lhe ajudar a lembrar de funcionalidades de um
+código grande ou complexo. Sua função é explicar trechos do código ou a lógica utilizada mostrando
+assim o objetivo de um método, classe ou variável.
+Já documentar o projeto, descrevendo a especificação do código. Assim qualquer pessoa poderá
+analisar um arquivo de documentação.
+Pacote (Package): O uso de pacotes serve para que possamos separar os códigos em categorias,
+funcionalidades ou pela relação que existe entre elas.
+Convenção de nomes: com essa boa prática, seu código ficará mito mais legível e prazeroso de se
+analisar. Nela temos os pacotes, classes, interfaces, métodos e varáveis.
+Pacotes: Deverá ser escrito com a primeira letra minúscula e separada por ponto “.” quando
+conveniente a separação ou múltiplos nomes.
+Classes e interfaces: Os nomes das classes devem iniciar com letra maiúscula. Quando a
+classe tiver nome composto, a letra da segunda palavra, ou nome, também deve ser escrito com
+letra maiúscula. Essas regras também são aplicadas para interfaces.
+Métodos: Para o método a primeira letra deve ser em minúsculo e sempre utilizar verbos, já
+que o método é criado para executar algum procedimento.
+Conclusão
+Como tudo na vida tem que ter ordem mesmo no caos, a convenção veio para ajudar todos os
+envolvidos no processo de criação de um código que no caso é Java. Procurar manter o padrão
+facilitará e agilizará todo o processo.
+Referências
+https://www.devmedia.com.br/boas-praticas-de-programacao/21137 
